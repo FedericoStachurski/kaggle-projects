@@ -4,12 +4,12 @@ Welcome to my Kaggle portfolio!
 
 This repository contains my solutions to selected Kaggle challenges. Each project includes well-documented code, clear exploratory data analysis, and a clean structure for reproducibility. The goal is to showcase applied machine learning and data science skills through real-world datasets.
 
-## 📂 Challenges
+## Challenges
 
-- [Titanic: Machine Learning from Disaster](./titanic-survival/README.md)
-- *(More coming soon...)*
+- [Titanic: Machine Learning from Disaster]
+- [House Prices - Advanced Regression Techniques]
 
-## 🧱 Project Structure
+## Project Structure
 
 Each challenge is organized in its own subfolder and typically includes:
 
@@ -19,7 +19,7 @@ Each challenge is organized in its own subfolder and typically includes:
 - `README.md` – Summary of the problem, approach, and results
 - `requirements.txt` – Dependencies used for the project
 
-## 🔗 My Kaggle Profile
+## My Kaggle Profile
 
 You can find my public Kaggle profile [here](https://www.kaggle.com/federicostachurski).
 # kaggle-projects

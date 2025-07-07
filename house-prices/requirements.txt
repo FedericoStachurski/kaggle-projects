@@ -46,6 +46,7 @@ jupyterlab==4.4.3
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 kiwisolver==1.4.8
+lightgbm==4.6.0
 MarkupSafe==3.0.2
 matplotlib==3.10.3
 matplotlib-inline==0.1.7
@@ -57,6 +58,7 @@ nest-asyncio==1.6.0
 notebook==7.4.3
 notebook_shim==0.2.4
 numpy==2.3.1
+nvidia-nccl-cu12==2.27.5
 overrides==7.7.0
 packaging==25.0
 pandas==2.3.0
@@ -96,6 +98,7 @@ terminado==0.18.1
 threadpoolctl==3.6.0
 tinycss2==1.4.0
 tornado==6.5.1
+tqdm==4.67.1
 traitlets==5.14.3
 types-python-dateutil==2.9.0.20250516
 typing_extensions==4.14.0
@@ -106,3 +109,4 @@ wcwidth==0.2.13
 webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
+xgboost==3.0.2
