@@ -1,0 +1,5 @@
+data/
+CNN_models/
+submissions/
+__pycache__/
+*.ipynb_checkpoints/
